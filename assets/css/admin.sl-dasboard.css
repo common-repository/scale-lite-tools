@@ -1,0 +1,90 @@
+/* id and shortcode clomuns */
+.column-scale_lite_ids {
+  width: 8%;
+}
+.column-taxonomy-block_category,
+.column-taxonomy-sl_html_block_category {
+  width: 15%;
+}
+.sl-shortcode-string {
+  font-size: 0px;
+}
+/* main dashboard managenment*/
+.scale-lite-tools-options-main-dashboard td,
+.scale-lite-tools-options-main-dashboard th,
+.scale-lite-tools-options-main-dashboard caption {
+  background: #fff !important;
+  box-sizing: border-box !important;
+  text-align: left !important;
+  font-size: 14px !important;
+  font-style: normal;
+  line-height: 27px !important;
+  border: 1px solid #e8e8e8 !important;
+  padding: 4px 6px 3px !important;
+  vertical-align: top !important;
+  text-shadow: none !important;
+  text-transform: none !important;
+  -webkit-font-smoothing: auto !important;
+}
+
+.scale-lite-tools-options-main-dashboard th {
+  width: 250px;
+}
+
+.scale-lite-tools-options-main-dashboard td > input[type="checkbox"] {
+  vertical-align: sub;
+}
+
+.scale-lite-tools-options-main-dashboard .description {
+  font-style: italic;
+  font-family: Menlo, Monaco, Consolas, monospace !important;
+  font-size: 12px !important;
+  font-weight: normal;
+  color: gray;
+}
+
+.scale-lite-tools-options-main-dashboard table {
+  color: #333 !important;
+  border-collapse: collapse !important;
+  box-shadow: none !important;
+  width: 100% !important;
+  table-layout: auto !important;
+  margin: 0 !important;
+}
+
+.scale-lite-tools-options-main-dashboard table {
+  color: #333 !important;
+  border-collapse: collapse !important;
+  box-shadow: none !important;
+  width: 100% !important;
+  table-layout: auto !important;
+  margin: 0 !important;
+}
+
+.scale-lite-tools-options-main-dashboard table {
+  color: #333 !important;
+  border-collapse: collapse !important;
+  box-shadow: none !important;
+  width: 100% !important;
+  table-layout: auto !important;
+  margin: 0 !important;
+  table-layout: fixed !important;
+}
+
+.semi-large-text {
+  width: 75%;
+}
+
+/* google maps admin */
+.preview_map_container,
+.preview_marker_container {
+  min-width: 100%;
+  min-height: 400px;
+}
+.slt_meta-location-address-container,
+.slt-gmap-address-container {
+  display: flex;
+}
+.slt-gslt-gmap-markers {
+  flex-grow: 1;
+}

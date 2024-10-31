@@ -1,0 +1,41 @@
+#scale-lite-debug {
+  position: fixed;
+  left:0px;
+  bottom: 0px;
+  z-index: 5000;
+  color: white;
+  background-color: white;
+  color: #393f47;
+  font-size: 14px;
+  border: 5px solid #194885;
+}
+#scale-lite-debug h1 {
+  font-size: 17px;
+  margin-top: 0px;
+  background-color: #e5ebf3;
+  padding:10px;
+}
+
+#sl-debug-content {
+  padding: 10px;
+}
+
+#scale-lite-debug h1 {
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+
+#scale-lite-debug h1:hover {
+  cursor: pointer;
+}
+
+#sl-debug-content {
+  display: none;
+}
+
+#scale-lite-debug hr {
+  border: 1px dotted #fff;
+  border-style: none none dotted;
+  color: #fff;
+  background-color: #fff;
+}

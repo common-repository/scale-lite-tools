@@ -1,0 +1,17 @@
+.baguetteBox-button#next-button,
+.baguetteBox-button#previous-button {
+  top: 50%;
+  top: calc(50% - 30px);
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  outline: initial;
+  border: 2px solid rgba(255,255,255,0.8);
+}
+
+.baguetteBox-button#next-button svg,
+.baguetteBox-button#previous-button svg{
+  transform: scale(0.5);
+  margin-top: -10px;
+  margin-left: -3px;
+}
